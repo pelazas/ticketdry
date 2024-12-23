@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="483.61099" viewBox="0 0 888 483.61099" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Loading animation placeholder -->
+  <circle cx="444" cy="241.80549" r="40" fill="#3f3d56" stroke="#3f3d56" stroke-width="8" stroke-dasharray="50,50" animation="loading-anim 1.5s infinite">
+    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1.5s" values="0 444 241.80549;360 444 241.80549" keyTimes="0;1"></animateTransform>
+  </circle>
+</svg>
